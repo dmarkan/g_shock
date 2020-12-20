@@ -1,0 +1,183 @@
+body {
+	background-color:black;
+}
+/* Boja pozadine */
+h1 {
+	font-size:50px;
+	color:white;
+}
+/* Zaglavlje */
+
+#tekst {
+	font-family:Georgia;
+	max-width:1000px;
+	max-height:1000px;
+	margin:auto;
+}
+
+pre {
+	color:white;
+	font-size:30px;
+}
+
+/* Tekstovi */
+
+.meni {
+	margin:auto;
+}
+
+ul {
+	margin:auto;
+	list-style-type:none;
+	background:black;
+	overflow:hidden;
+	text-align:center;
+}
+
+li {
+	border:4px inset white;
+	display:inline-block;
+}
+
+li a {
+	background:silver;
+	color:black;
+	text-decoration:none;
+	font-family:Helvetica;
+	height:40px;
+	font-size:30px;
+	padding:2px;
+}
+
+li a:hover {
+	background:white;
+	color:black;
+}
+/* Meni */
+
+.tabela1 {
+
+	color:white;
+	border:solid white;
+	padding:3px;
+	font-family:Helvetica;
+	text-align:left;
+	font-size:18px;
+	height:26px;
+	border-collapse:collapse;
+	margin-left:400px;
+	}
+	
+#tr1 {
+	color:white;
+	border:white solid;
+}
+#td1 {
+	color:white;
+	border:white solid;
+}
+	/* Tabela1 */
+		
+.tabela2 {
+
+	color:white;
+	border:solid green;
+	padding:3px;
+	font-family:Helvetica;
+	text-align:left;
+	font-size:18px;
+	height:26px;
+	border-collapse:collapse;
+	margin-left:50px;
+	width:950px;
+	}
+	
+#tr2 {
+	color:white;
+	border:green solid;
+}
+#td2 {
+	color:white;
+	border:green solid;
+}
+	/* Tabela2 */
+	
+.tabela3 {
+
+	color:white;
+	border:dotted blue;
+	padding:3px;
+	font-family:Helvetica;
+	text-align:left;
+	font-size:18px;
+	height:26px;
+	border-collapse:collapse;
+	margin-left:400px;
+	}
+	
+#tr3 {
+	color:white;
+	border:white dotted;
+}
+#td3 {
+	color:white;
+	border:blue dotted;
+}
+	/* Tabela3 */
+	
+.tabela4 {
+
+	color:white;
+	border:solid yellow;
+	padding:3px;
+	font-family:Helvetica;
+	text-align:left;
+	font-size:18px;
+	height:26px;
+	border-collapse:collapse;
+	margin-left:50px;
+	width:950px;
+	}
+	
+#tr4 {
+	color:white;
+}
+#td4 {
+	color:white;
+	border:red dashed;
+}
+	/* Tabela4 */
+
+#link {
+	font-size:30px;
+	color:red;
+	}
+#link:hover {
+	background:lightblue;
+}
+#link:active {
+	background:yellow;
+}
+#link:visited {
+	color:green;
+}
+/* Linkovi */
+
+h3 {
+	color:white;
+	font-family:Helvetica;
+}
+	
+#forma {
+	width:500px;
+	border:2px solid white;
+	padding:5px;
+	margin-left:32%;
+}
+/* Forma */
+
+p {
+	font-family:Helvetica;
+	color:white;
+	font-size:30px;
+}
